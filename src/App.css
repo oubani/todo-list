@@ -1,0 +1,22 @@
+nav {
+  margin-bottom: 40px;
+}
+.collection.with-header .collection-item {
+  padding-bottom: 25px;
+}
+
+.alert {
+  width: 100%;
+  padding: 15px;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  border-radius: 15px;
+}
+.alert-danger {
+  border: 3px solid #752224;
+  background: rgb(231, 48, 48);
+}
+.alert-success {
+  border: 3px solid #28ad24;
+  background: rgb(30, 190, 70);
+}
